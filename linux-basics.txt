@@ -1,0 +1,17 @@
+Day 1–6 Linux Practice
+
+Commands learned:
+- pwd
+- ls
+- cd
+- mkdir
+- touch
+- cp
+- mv
+- rm
+- chmod
+- chown
+- systemctl
+- ps
+- top
+- nginx setup
