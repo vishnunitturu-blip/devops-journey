@@ -15,3 +15,13 @@ Commands learned:
 - ps
 - top
 - nginx setup
+Day 7–12 Linux Practice
+
+New commands:
+- grep
+- find
+- df
+- du
+- tail
+- log files (/var/log)
+
