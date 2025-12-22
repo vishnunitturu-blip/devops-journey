@@ -24,4 +24,13 @@ New commands:
 - du
 - tail
 - log files (/var/log)
+Day 13–18 Linux Practice
+
+Concepts:
+- File permissions (r,w,x)
+- chmod
+- chown
+- users & groups
+- processes (ps, top)
+- services (systemctl)
 
