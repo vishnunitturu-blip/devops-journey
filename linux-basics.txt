@@ -34,3 +34,12 @@ Concepts:
 - processes (ps, top)
 - services (systemctl)
 
+Day 19–24 Linux Practice
+
+Shell scripting:
+- bash
+- variables
+- read input
+- executable scripts
+- automation basics
+
