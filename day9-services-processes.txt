@@ -1,0 +1,17 @@
+DAY 9 – Services & Process Management
+
+Commands learned:
+ps
+ps -ef
+top
+kill <PID>
+systemctl status <service>
+systemctl start <service>
+systemctl stop <service>
+systemctl enable <service>
+
+Learnings:
+- Processes are running programs with unique PIDs.
+- ps and top help monitor system activity.
+- kill is used to stop stuck processes.
+- systemctl manages background services in Linux.
