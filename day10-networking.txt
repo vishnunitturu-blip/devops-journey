@@ -1,0 +1,18 @@
+Day 10 – Networking Basics
+
+Networking connects systems to share data.
+
+IP Address:
+Unique identity of a system on a network.
+
+Localhost:
+127.0.0.1 refers to the same machine.
+
+Port:
+Used to identify services running on a system.
+
+DNS:
+Converts domain names into IP addresses.
+
+SSH:
+Secure way to access remote servers.
