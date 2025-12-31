@@ -1,0 +1,14 @@
+1. What is Git?
+Git is a version control system used to track changes in files and manage source code.
+
+2. What is GitHub?
+GitHub is a cloud platform used to store Git repositories and collaborate with others.
+
+3. What is git init?
+git init is used to create a new Git repository.
+
+4. What is git add?
+git add is used to move files from working directory to staging area.
+
+5. What is git commit?
+git commit saves the changes permanently with a message.
