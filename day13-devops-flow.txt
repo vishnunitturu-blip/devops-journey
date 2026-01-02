@@ -1,0 +1,10 @@
+Day 13 – DevOps Flow
+
+Developer writes code
+→ Pushes to GitHub
+→ CI/CD pipeline triggers
+→ Code tested automatically
+→ Code deployed to server
+
+Git is the backbone of DevOps.
+Automation reduces manual work
