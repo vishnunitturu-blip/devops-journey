@@ -1,1 +1,1 @@
-Version 1: Login feature
+Version 2: Login feature with OTP
