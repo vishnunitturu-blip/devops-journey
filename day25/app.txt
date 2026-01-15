@@ -1,1 +1,1 @@
-Version 2: Login feature with CAPTCHA
+Version 3: Login feature with OTP + CAPTCHA
