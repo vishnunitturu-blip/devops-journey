@@ -1,0 +1,7 @@
+Day 34 – Docker Volumes
+
+• Containers are ephemeral
+• Volumes persist data
+• docker volume create
+• Volume survives container deletion
+• Bind mounts sync local files
