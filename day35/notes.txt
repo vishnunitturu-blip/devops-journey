@@ -1,0 +1,7 @@
+Day 35 – Docker Networking
+
+• Containers are isolated by default
+• Custom bridge networks enable communication
+• docker network create
+• Containers communicate using names
+• Default bridge doesn’t support DNS
