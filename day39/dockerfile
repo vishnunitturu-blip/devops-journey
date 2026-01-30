@@ -1,0 +1,5 @@
+FROM ubuntu:22.04
+
+WORKDIR /data
+
+CMD ["bash", "-c", "ls -l /data && cat /data/app.txt"]
