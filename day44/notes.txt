@@ -1,0 +1,7 @@
+Day 44 – Docker Volumes
+
+Used volume day44
+Mounted to /data
+File proof.txt survived container deletion
+Conclusion: Docker volumes persist data beyond container lifecycle
+
