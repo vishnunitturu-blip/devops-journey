@@ -1,0 +1,7 @@
+Day 46 – Docker Networking
+
+- Docker networks allow container communication
+- bridge is default network
+- user-defined bridge enables name-based resolution
+- containers on same network can ping each other
+
