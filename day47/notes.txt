@@ -1,0 +1,5 @@
+Day 47 – Docker Networking
+
+- Created custom bridge network
+- Ran multiple containers on same network
+- Verified container-to-container communication using ping
