@@ -1,0 +1,15 @@
+# Docker Container Lifecycle
+
+## Commands Practiced
+
+- docker run
+- docker ps
+- docker stop
+- docker start
+- docker rm
+
+## What I Learned
+
+A container is a running instance of an image.
+Containers can be stopped and restarted.
+Images are templates.
