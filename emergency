@@ -1,0 +1,15 @@
+# Commands Executed
+docker run
+docker ps
+docker stop
+docker start
+docker rm
+
+## Key Learnings
+1. Containers are not deleted when stopped.
+2. docker rm removes containers, not images.
+3. docker run creates a new container every time.
+
+## Common Mistakes
+- Forgetting container names
+- Confusing images with containers
