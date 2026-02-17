@@ -1,0 +1,9 @@
+Day 14 – Docker Introduction
+
+Docker is a containerization tool.
+It packages application with dependencies.
+Docker solves "works on my machine" problem.
+
+Image = blueprint
+Container = running image
+Docker is lightweight compared to VMs.

@@ -1,0 +1,4 @@
+Linux is powerful
+DevOps uses Linux
+Learning Linux daily
+Linux + Git + Cloud

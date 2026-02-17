@@ -1,0 +1,45 @@
+Day 1–6 Linux Practice
+
+Commands learned:
+- pwd
+- ls
+- cd
+- mkdir
+- touch
+- cp
+- mv
+- rm
+- chmod
+- chown
+- systemctl
+- ps
+- top
+- nginx setup
+Day 7–12 Linux Practice
+
+New commands:
+- grep
+- find
+- df
+- du
+- tail
+- log files (/var/log)
+Day 13–18 Linux Practice
+
+Concepts:
+- File permissions (r,w,x)
+- chmod
+- chown
+- users & groups
+- processes (ps, top)
+- services (systemctl)
+
+Day 19–24 Linux Practice
+
+Shell scripting:
+- bash
+- variables
+- read input
+- executable scripts
+- automation basics
+

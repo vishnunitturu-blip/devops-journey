@@ -1,0 +1,40 @@
+
+DAY 8 – LOGS & MONITORING
+
+1) What are Logs?
+Logs are text files that record system activities, errors, user actions,
+and application events. Logs help administrators understand what happened,
+when it happened, and why it happened.
+
+2) Importance of Logs in DevOps
+- Helps in debugging issues
+- Tracks system and application errors
+- Useful for security auditing
+- Helps in troubleshooting production failures
+
+3) Common Log Locations in Linux
+/var/log/syslog  - General system logs
+/var/log/auth.log - Authentication and login logs
+/var/log/dmesg - Kernel and boot logs
+
+4) Log Viewing Commands
+cat /var/log/syslog        - View entire log file
+less /var/log/syslog       - View logs page by page
+tail /var/log/syslog       - View last lines of log file
+tail -f /var/log/syslog    - Live log monitoring
+
+5) What is Monitoring?
+Monitoring is the process of continuously checking system resources
+like CPU, memory, disk usage, and services to detect problems early.
+
+6) Monitoring Commands
+top     - Shows CPU and memory usage
+df -h   - Shows disk usage in human-readable format
+du -sh * - Shows directory size
+systemctl status service_name - Checks service status
+
+7) Conclusion
+Logs help in identifying problems after they occur.
+Monitoring helps in preventing problems before they occur.
+Both are very important in DevOps.
+

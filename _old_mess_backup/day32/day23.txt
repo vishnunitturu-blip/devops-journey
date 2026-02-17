@@ -1,0 +1,10 @@
+Before merge:
+
+master:  A
+dev:     A → B
+
+After merge:
+
+master:  A → B
+dev:     A → B
+

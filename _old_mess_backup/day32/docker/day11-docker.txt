@@ -1,0 +1,121 @@
+🚀 Day 11 — Docker (Lecture Notes)
+
+📒 Write these notes in your notebook exactly like a class
+
+📌 What is Docker?
+
+Docker is a containerization platform used to build, ship, and run applications.
+
+👉 It allows developers to package:
+
+Application
+
+Dependencies
+
+Libraries
+into one container
+
+So it runs same everywhere.
+
+❓ Why Docker is Needed?
+
+Before Docker:
+
+App works on my laptop ❌
+
+Fails on server ❌
+
+Dependency issues ❌
+
+OS differences ❌
+
+With Docker:
+
+Build once
+
+Run anywhere
+
+No dependency conflict
+
+Fast deployment
+
+✅ That’s why companies use Docker.
+
+🧱 What is a Container?
+
+A container is:
+
+Lightweight
+
+Isolated
+
+Runs an application
+
+It shares the host OS kernel, so it is:
+
+Faster than VM
+
+Uses less memory
+
+🖥️ Virtual Machine vs Docker
+Feature	Virtual Machine	Docker
+OS	Full OS	Shares Host OS
+Size	Heavy (GBs)	Light (MBs)
+Speed	Slow	Very Fast
+Boot Time	Minutes	Seconds
+🐳 What is Docker Image?
+
+A Docker Image is a blueprint
+
+Read-only
+
+Used to create containers
+
+Example:
+
+nginx image
+
+ubuntu image
+
+📦 What is Docker Container?
+
+Running instance of an image
+
+You can start / stop / delete it
+
+Image ➜ Container
+
+🔑 Real DevOps Example
+
+Developer gives:
+
+Code ❌
+
+README ❌
+
+DevOps gives:
+
+Dockerfile ✅
+
+Image ✅
+
+One command deployment ✅
+
+🎯 Today’s Goal (No Commands Yet)
+
+Today is concept day only
+Tomorrow you will:
+
+Install Docker
+
+Run your first container
+
+See nginx in browser 😎
+
+🧠 Homework (VERY SMALL)
+
+Answer in one line:
+
+Why is Docker faster than Virtual Machine?
+
+Reply → Day 12 starts immediately 🐳🔥
