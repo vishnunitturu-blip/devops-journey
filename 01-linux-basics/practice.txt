@@ -1,0 +1,1 @@
+Created directories, moved files, renamed files, and verified paths using pwd and ls.
