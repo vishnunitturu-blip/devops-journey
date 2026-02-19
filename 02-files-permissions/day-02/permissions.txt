@@ -1,0 +1,12 @@
+r = read
+w = write
+x = execute
+
+Owner  Group  Others
+  rwx    r-x     r--
+
+Example:
+chmod 754 file.txt
+Owner: rwx
+Group: r-x
+Others: r--
