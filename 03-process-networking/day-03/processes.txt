@@ -1,0 +1,10 @@
+A process is a running instance of a program.
+
+ps     -> shows running processes
+top    -> real-time process monitoring
+htop   -> enhanced top (if installed)
+kill   -> send signals to processes
+
+Signals:
+SIGTERM (15) - graceful stop
+SIGKILL (9)  - force stop
